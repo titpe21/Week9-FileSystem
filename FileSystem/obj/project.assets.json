@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia.voronetskaja\\source\\repos\\FileSystem\\FileSystem\\FileSystem.csproj",
+      "projectUniqueName": "C:\\Users\\julia.voronetskaja\\source\\repos\\titpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj",
       "projectName": "FileSystem",
-      "projectPath": "C:\\Users\\julia.voronetskaja\\source\\repos\\FileSystem\\FileSystem\\FileSystem.csproj",
+      "projectPath": "C:\\Users\\julia.voronetskaja\\source\\repos\\titpe21\\Week9-FileSystem\\FileSystem\\FileSystem.csproj",
       "packagesPath": "C:\\Users\\julia.voronetskaja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia.voronetskaja\\source\\repos\\FileSystem\\FileSystem\\obj\\",
+      "outputPath": "C:\\Users\\julia.voronetskaja\\source\\repos\\titpe21\\Week9-FileSystem\\FileSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

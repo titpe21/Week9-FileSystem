@@ -11,3 +11,16 @@ C:\Users\julia.voronetskaja\source\repos\FileSystem\FileSystem\obj\Debug\netcore
 C:\Users\julia.voronetskaja\source\repos\FileSystem\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.dll
 C:\Users\julia.voronetskaja\source\repos\FileSystem\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.pdb
 C:\Users\julia.voronetskaja\source\repos\FileSystem\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.genruntimeconfig.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\bin\Debug\netcoreapp3.1\FileSystem.exe
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\bin\Debug\netcoreapp3.1\FileSystem.deps.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\bin\Debug\netcoreapp3.1\FileSystem.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\bin\Debug\netcoreapp3.1\FileSystem.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\bin\Debug\netcoreapp3.1\FileSystem.dll
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\bin\Debug\netcoreapp3.1\FileSystem.pdb
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.dll
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.pdb
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\FileSystem\obj\Debug\netcoreapp3.1\FileSystem.genruntimeconfig.cache

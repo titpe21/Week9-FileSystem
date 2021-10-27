@@ -1,0 +1,12 @@
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.exe
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\julia.voronetskaja\source\repos\titpe21\Week9-FileSystem\Lists\obj\Debug\netcoreapp3.1\Lists.genruntimeconfig.cache
